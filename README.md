@@ -5,9 +5,10 @@ A python module for scientific analysis of 3D objects and point clouds.
 Link to the EPUG activities [here](https://git.embl.de/grp-bio-it/EPUG).
 
 
-## Setup
+## Setup and Run
 ```sh
 pip install -U vedo
+pip install scipy
 ```
 
 Copy this repo locally with:
@@ -16,11 +17,6 @@ git clone https://github.com//vedo-epug-tutorial.git
 cd vedo-epug-tutorial
 ```
 
-## Documentation
-- [vedo webpage](https://vedo.embl.es/)
-- [vedo API docs](https://vedo.embl.es/docs/)
-
-## Run
 To run the scripts:
 ```
 cd scripts
@@ -38,3 +34,7 @@ Inside the notebook you may want to declare the preferred backend to use, e.g.:
 from vedo import settings
 settings.default_backend = "vtk"
 ```
+
+## Documentation
+- [vedo webpage](https://vedo.embl.es/)
+- [vedo API docs](https://vedo.embl.es/docs/)
