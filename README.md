@@ -1,8 +1,6 @@
-# The EMBL Python User Group Session on vedo
+# vedo tutorial for the EMBL Python User Group
 
 A python module for scientific analysis of 3D objects and point clouds.
-
-Link to the EPUG activities [here](https://git.embl.de/grp-bio-it/EPUG).
 
 
 ## Setup and Run
@@ -32,3 +30,4 @@ settings.default_backend = "vtk"
 ## Documentation
 - [vedo webpage](https://vedo.embl.es/)
 - [vedo API docs](https://vedo.embl.es/docs/)
+- [EPUG activities](https://git.embl.de/grp-bio-it/EPUG).
