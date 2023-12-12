@@ -11,7 +11,7 @@ pip install scipy
 
 Copy this repo locally with:
 ```
-git clone https://github.com/vedo-epug-tutorial.git
+git clone https://github.com/marcomusy/vedo-epug-tutorial.git
 cd vedo-epug-tutorial
 ```
 
